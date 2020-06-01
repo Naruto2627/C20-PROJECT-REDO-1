@@ -30,6 +30,10 @@ function draw() {
   textSize(19); 
   text("Deformation:"+Math.round((0.5*speed*weight*speed)/22500),1150,350);
 
+  fill("orange"); 
+  textSize(50); 
+  text("CSGO",706,62);
+
   fill("red"); 
   textSize(19); 
   text("Deformation >= 180 Is Considered Lethal For Passengers",350,270);
