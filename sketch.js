@@ -32,7 +32,7 @@ function draw() {
 
   fill("orange"); 
   textSize(50); 
-  text("CSGO",706,62);
+  text("GCSO",706,62);
 
   fill("red"); 
   textSize(19); 
